@@ -5,8 +5,8 @@ Twitter Clone with dark theme
 
 |   |   |
 |---|---|
-| <img src="https://github.com/muratti32/Realm-Example/blob/master/img/ios.gif" width="175" />  |  <img src="https://github.com/muratti32/Realm-Example/blob/master/img/android.gif" width="175" /> |
-|  **IOS Version :** <br> | **Android Version :**   |
+| <img src="https://github.com/muratti32/twitter-clone/blob/master/images/video.gif" width="175" />  |   **IOS Version :** <br> |
+
 
 
 MIT License
