@@ -5,7 +5,7 @@ Twitter Clone with dark theme
 
 |   |   |
 |---|---|
-| <img src="https://github.com/muratti32/twitter-clone/blob/master/images/video.gif" width="400" />  |   <br><br><br><br>** React Native Twitter clone ** <br> |
+| <img src="https://github.com/muratti32/twitter-clone/blob/master/images/video.gif" width="400" />  |   <br><br><br>** React Native Twitter clone ** <br><br><br> IOS and Android version |
 
 
 
