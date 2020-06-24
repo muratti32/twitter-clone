@@ -5,7 +5,7 @@ Twitter Clone with dark theme
 
 |   |   |
 |---|---|
-| <img src="https://github.com/muratti32/twitter-clone/blob/master/images/video.gif" width="175" />  |   **IOS Version :** <br> |
+| <img src="https://github.com/muratti32/twitter-clone/blob/master/images/video.gif" width="300" />  |   **IOS Version :** <br> |
 
 
 
